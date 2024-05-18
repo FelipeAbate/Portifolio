@@ -10,6 +10,16 @@ html, body {
     
 }
 
+.iconMenu{
+    width: 24px;
+}
+
+.menuHome{
+    margin-top: 99px;
+    margin-left: 51px;
+    
+}
+
 p, li {
     color: white;
     text-align: justify;
@@ -20,6 +30,7 @@ p, li {
     position: relative;
     margin-left: 4px;
     margin-right: 4px;
+    margin-top: -130px;
 }
 
 .logo{
@@ -146,12 +157,23 @@ img{
         
     }
 
+    .iconMenu{
+        width: 14px;
+    }
+    
+    .menuHome{
+        margin-top: 79px;
+        margin-left: 18px;
+        
+    }
+
     .header{
         background-color: black;
         position: relative;
         margin-left: 4px;
         margin-right: 4px;
         padding-bottom: 20px;
+        margin-top: -102px;
     }
 
     .logo{

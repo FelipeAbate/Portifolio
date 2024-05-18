@@ -101,11 +101,11 @@ h2{
 @media screen and ( max-width: 768px ) {
 
     h1{
-        font-size: 20px;
+        font-size: 15px;
         font-style: oblique;
         color: white;
-        margin-left: 100px;
-        margin-top: 90px;
+        margin-left: 128px;
+        margin-top: 12px;
         position: absolute;
     }
 
@@ -113,7 +113,7 @@ h2{
         font-size: 29px;
         font-style: oblique;
         color:  aqua;
-        margin-top: 135px;
+        margin-top: 51px;
         margin-left: 48px;
         position: absolute;
     }
@@ -121,9 +121,9 @@ h2{
     .profission{
         font-style: oblique;
         color: white;
-        font-size: 25px;
-        padding-top: 150px;
-        margin-left: 25px;
+        font-size: 18px;
+        padding-top: 77px;
+        margin-left: 60px;
         
     }
 
@@ -153,10 +153,10 @@ h2{
     }
 
     .imgdev{
-        width: 260px;
-        margin-top: 300px;
-        margin-left: -250px;
-        border-radius: 10px;
+        width: 220px;
+        margin-top: 210px;
+        margin-left: -235px;
+        border-radius: 5px;
         position: absolute;
      }
 
@@ -166,6 +166,11 @@ h2{
         margin-right: -10px;
         margin-top: 22px;
         
+    }
+
+    .Periodo{
+        margin-top: 289px;
+        margin-left: 59px;
     }
 
    
